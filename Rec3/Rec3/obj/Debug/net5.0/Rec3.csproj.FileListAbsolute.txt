@@ -1,0 +1,16 @@
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\obj\Debug\net5.0\Rec3.csproj.AssemblyReference.cache
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\obj\Debug\net5.0\Rec3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\obj\Debug\net5.0\Rec3.AssemblyInfoInputs.cache
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\obj\Debug\net5.0\Rec3.AssemblyInfo.cs
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\obj\Debug\net5.0\Rec3.csproj.CoreCompileInputs.cache
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\bin\Debug\net5.0\Rec3.exe
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\bin\Debug\net5.0\Rec3.deps.json
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\bin\Debug\net5.0\Rec3.runtimeconfig.json
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\bin\Debug\net5.0\Rec3.runtimeconfig.dev.json
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\bin\Debug\net5.0\Rec3.dll
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\bin\Debug\net5.0\ref\Rec3.dll
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\bin\Debug\net5.0\Rec3.pdb
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\obj\Debug\net5.0\Rec3.dll
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\obj\Debug\net5.0\ref\Rec3.dll
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\obj\Debug\net5.0\Rec3.pdb
+C:\Users\David Afloarei\source\repos\Rec3\Rec3\obj\Debug\net5.0\Rec3.genruntimeconfig.cache
